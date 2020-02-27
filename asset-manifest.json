@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flexfroggy/static/css/main.97994575.chunk.css",
+    "main.js": "/flexfroggy/static/js/main.02ef6a10.chunk.js",
+    "main.js.map": "/flexfroggy/static/js/main.02ef6a10.chunk.js.map",
+    "runtime-main.js": "/flexfroggy/static/js/runtime-main.c9f37e9e.js",
+    "runtime-main.js.map": "/flexfroggy/static/js/runtime-main.c9f37e9e.js.map",
+    "static/js/2.22572849.chunk.js": "/flexfroggy/static/js/2.22572849.chunk.js",
+    "static/js/2.22572849.chunk.js.map": "/flexfroggy/static/js/2.22572849.chunk.js.map",
+    "index.html": "/flexfroggy/index.html",
+    "precache-manifest.b4fde0ece32513f199fabb3cfb45fd27.js": "/flexfroggy/precache-manifest.b4fde0ece32513f199fabb3cfb45fd27.js",
+    "service-worker.js": "/flexfroggy/service-worker.js",
+    "static/css/main.97994575.chunk.css.map": "/flexfroggy/static/css/main.97994575.chunk.css.map",
+    "static/js/2.22572849.chunk.js.LICENSE.txt": "/flexfroggy/static/js/2.22572849.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9f37e9e.js",
+    "static/js/2.22572849.chunk.js",
+    "static/css/main.97994575.chunk.css",
+    "static/js/main.02ef6a10.chunk.js"
+  ]
+}
